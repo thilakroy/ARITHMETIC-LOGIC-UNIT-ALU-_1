@@ -14,3 +14,6 @@ MENTOR: NEELA SANTOSH
 
 YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD BE LESS THAN 500 WORDS)
 COMPANY: CODTECH IT SOLUTION
+
+**OUTPUT**:
+<img width="1895" height="977" alt="Image" src="https://github.com/user-attachments/assets/b13fd8ca-4b51-48d6-991d-ca5064ef32ec" />
